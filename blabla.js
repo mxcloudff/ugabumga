@@ -24,21 +24,21 @@ function addGlobalStyle(css){
 //
 //addGlobalStyle('#button-lobby {background-image: max-height:0px;max-width:0px;}');
 //
-//addGlobalStyle('#button-vote-positive {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVotePositive.png") ;}');
+addGlobalStyle('#button-vote-positive {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVotePositive.png") ;}');
 //
-//addGlobalStyle('#button-vote-negative {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVoteNegative.png")!important ;}');
+addGlobalStyle('#button-vote-negative {background-image: url("http://cloud.github.com/downloads/Punkred/DnBplug/ButtonVoteNegative.png")!important ;}');
 //
-//addGlobalStyle('.chat-bouncer{background: url("https://dl.dropbox.com/u/67634625/chat-bouncer-icon.png") no-repeat 0 5px;padding-left: 17px;width: 292px;');
+addGlobalStyle('.chat-bouncer{background: url("https://dl.dropbox.com/u/67634625/chat-bouncer-icon.png") no-repeat 0 5px;padding-left: 17px;width: 292px;');
 //
-//addGlobalStyle('#volume-bar-value{background-image: url("https://dl.dropbox.com/u/67634625/test.png"}');
+addGlobalStyle('#volume-bar-value{background-image: url("https://dl.dropbox.com/u/67634625/test.png"}');
 //
-//addGlobalStyle('#room-wheel {background-image: max-height:0px;max-width:0px;}');
+addGlobalStyle('#room-wheel {background-image: max-height:0px;max-width:0px;}');
 //
 //addGlobalStyle('#user-points {background-image: url("");maxheight:25px;background-size: 100% 100%;max-width:25px;}');
 //
 //addGlobalStyle('#user-fans {background-image: url("");maxheight:25px;max-width:25px;}');
 //
-//addGlobalStyle('html{background: url("http://i.imgur.com/fziQ1KI.jpg") no-repeat scroll center top #000000;');
+addGlobalStyle('html{background: url("http://i.imgur.com/fziQ1KI.jpg") no-repeat scroll center top #000000;');
 //
 //addGlobalStyle('#button-dj-play.button-dj {background-image: url("")!important;}');
 //
@@ -52,7 +52,7 @@ function addGlobalStyle(css){
 //addGlobalStyle("* {" + "font-family:Cambria,'Times New Roman','Nimbus Roman No9 L','Freeserif',Times,serif; !important;" + "}"); //for font changing
 
 //to change the DJ console, uncomment this and add your own custom URL. I've got no good ideas atm, but feel free to try stuff out :)
-//addGlobalStyle('#dj-console, #dj-console {background-image: url("http://i.imgur.com/TKi4bqv.png");min-height:33px;min-width:131px;}'); //change create room button
+addGlobalStyle('#dj-console, #dj-console {background-image: url("http://i.imgur.com/TKi4bqv.png");min-height:33px;min-width:131px;}'); //change create room button
 
 //trying to figure out how to change the avatar image, not working atm.
 //addGlobalStyle('#user-image, #user-image {background-image: url("http://th09.deviantart.net/fs70/PRE/i/2012/115/f/c/shining_armor_cutie_mark_by_noxwyll-d4xjdre.png");min-height:33px;background-size: 100% 100%;min-width:131px;}');
