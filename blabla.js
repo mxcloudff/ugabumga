@@ -52,7 +52,7 @@ function addGlobalStyle(css){
 //addGlobalStyle("* {" + "font-family:Cambria,'Times New Roman','Nimbus Roman No9 L','Freeserif',Times,serif; !important;" + "}"); //for font changing
 
 //to change the DJ console, uncomment this and add your own custom URL. I've got no good ideas atm, but feel free to try stuff out :)
-addGlobalStyle('#dj-console, #dj-console {background-image: url("http://i.imgur.com/TKi4bqv.png");min-height:33px;min-width:131px;}'); //change create room button
+//addGlobalStyle('#dj-console, #dj-console {background-image: url("http://i.imgur.com/TKi4bqv.png");min-height:33px;min-width:131px;}'); //change create room button
 
 //trying to figure out how to change the avatar image, not working atm.
 //addGlobalStyle('#user-image, #user-image {background-image: url("http://th09.deviantart.net/fs70/PRE/i/2012/115/f/c/shining_armor_cutie_mark_by_noxwyll-d4xjdre.png");min-height:33px;background-size: 100% 100%;min-width:131px;}');
